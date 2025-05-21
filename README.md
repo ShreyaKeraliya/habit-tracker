@@ -37,8 +37,7 @@ A beautifully crafted **habit tracking app** built with Flutter to help users st
 
 | Progress Graph | AI Assistant |
 |----------------|---------------|
-| ![Progress Graph](assets/screenshots/progress_graph.png) | ![AI Assistant](assets/
-screenshots/ai_assistant.png) |
+| ![Progress Graph](assets/screenshots/progress_graph.png) | ![AI Assistant](assets/screenshots/ai_assistant.png) |
 
 
 ---
