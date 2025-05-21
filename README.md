@@ -29,7 +29,7 @@ A beautifully crafted **habit tracking app** built with Flutter to help users st
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](screenshots/light_theme.png) | ![Dark Theme](screenshots/dark_theme.png) |
+| ![Light Theme](assets/screenshots/light_theme.png) | ![Dark Theme](screenshots/dark_theme.png) |
 
 | Habits List | Calendar View |
 |-------------|----------------|
