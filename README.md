@@ -29,15 +29,16 @@ A beautifully crafted **habit tracking app** built with Flutter to help users st
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](assets/screenshots/light_theme.png) | ![Dark Theme](screenshots/dark_theme.png) |
+| ![Light Theme](assets/screenshots/light_theme.png) | ![Dark Theme](assets/screenshots/dark_theme.png) |
 
 | Habits List | Calendar View |
 |-------------|----------------|
-| ![Habits List](screenshots/habits_list.png) | ![Calendar View](screenshots/calendar_view.png) |
+| ![Habits List](assets/screenshots/habits_list.png) | ![Calendar View](assets/screenshots/calendar_view.png) |
 
 | Progress Graph | AI Assistant |
 |----------------|---------------|
-| ![Progress Graph](screenshots/progress_graph.png) | ![AI Assistant](screenshots/ai_assistant.png) |
+| ![Progress Graph](assets/screenshots/progress_graph.png) | ![AI Assistant](assets/
+screenshots/ai_assistant.png) |
 
 
 ---
